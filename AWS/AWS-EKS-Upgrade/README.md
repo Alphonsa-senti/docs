@@ -195,4 +195,3 @@ Cluster Autoscaler tags (if used):
 
 ---
 
-*Confidential — for internal use only.*
